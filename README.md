@@ -1,8 +1,8 @@
-# Hospital-Management-System
+[# Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040244
+# Name: Mohamed thowfiq M
+# Date: 25-11-2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="983" height="739" alt="image" src="https://github.com/user-attachments/assets/5f7b8b2c-5334-47d4-9ed5-d3aae7368cd1" />
 
 
 
@@ -59,7 +60,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
-
+<img width="914" height="526" alt="image" src="https://github.com/user-attachments/assets/bb283be5-b4ac-4797-8a05-2539a4bba178" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="797" height="509" alt="image" src="https://github.com/user-attachments/assets/eaf38938-5088-4fec-9de2-e159396baff1" />
 
 
 
@@ -79,11 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
+<img width="358" height="798" alt="image" src="https://github.com/user-attachments/assets/fbf64990-e266-4039-b3b2-fd5c142d01e1" />
 
 
 # ACTIVITY DIAGRAM:
@@ -100,6 +98,7 @@ Describe the steps performed in a UML use case.
 
 
 
+<img width="909" height="574" alt="image" src="https://github.com/user-attachments/assets/d8ae8fe4-847e-46b9-9c61-6e347e9c72f1" />
 
 
 # SEQUENCE DIAGRAM
@@ -121,10 +120,11 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-
+<img width="817" height="750" alt="image" src="https://github.com/user-attachments/assets/85e1a880-0adc-42ed-bd32-f479300b6c76" />
 
 
 # RESULT
 
 Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
 
+](https://github.com/thowfiqm028-code/Railway-Reservation-System.git)
